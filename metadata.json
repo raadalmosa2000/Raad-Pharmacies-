@@ -1,0 +1,6 @@
+{
+  "name": "صيدلياتنا",
+  "description": "صيدليتك الأقرب، عندما تحتاجها. تطبيق للعثور على الصيدليات المناوبة والأدوية المتوفرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
